@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="GIt Hub Table" max_length="40" name="x_69202_copy_appli_git_hub_table" type="collection"/>
+</database>

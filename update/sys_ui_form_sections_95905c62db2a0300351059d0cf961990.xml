@@ -21,7 +21,6 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-11-23 04:28:05</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>95905c62db2a0300351059d0cf961990</sys_id>
@@ -30,7 +29,6 @@
             <sys_overrides/>
             <sys_package display_value="Copy Application" source="x_69202_copy_appli">f964b192dbe20300351059d0cf961903</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Copy Application">f964b192dbe20300351059d0cf961903</sys_scope>
             <sys_update_name>sys_ui_form_sections_95905c62db2a0300351059d0cf961990</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

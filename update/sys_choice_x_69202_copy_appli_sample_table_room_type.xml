@@ -64,13 +64,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-11-23 04:39:07</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>c5c8b2ecdb18d300351059d0cf9619a1</sys_id>
+            <sys_id>1c8c12f3db311300f0faeb41ca96190b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>room_type</sys_name>
             <sys_package display_value="Copy Application" source="x_69202_copy_appli">f964b192dbe20300351059d0cf961903</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Copy Application">f964b192dbe20300351059d0cf961903</sys_scope>
             <sys_update_name>sys_choice_x_69202_copy_appli_sample_table_room_type</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
