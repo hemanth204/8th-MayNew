@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="name_of_the_person" label="Name of the Person" language="en" table="x_69202_copy_appli_sample_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name_of_the_person</element>
+            <help/>
+            <hint/>
+            <label>Name of the Person</label>
+            <language>en</language>
+            <name>x_69202_copy_appli_sample_table</name>
+            <plural>Name of the Persons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-23 04:16:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3cfdc422db2a0300351059d0cf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name of the Person</sys_name>
+            <sys_package display_value="Copy Application" source="x_69202_copy_appli">f964b192dbe20300351059d0cf961903</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Copy Application">f964b192dbe20300351059d0cf961903</sys_scope>
+            <sys_update_name>sys_documentation_x_69202_copy_appli_sample_table_name_of_the_person_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-23 04:16:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

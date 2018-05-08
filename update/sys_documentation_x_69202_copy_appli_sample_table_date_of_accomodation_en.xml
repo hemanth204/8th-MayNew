@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="date_of_accomodation" label="Date of Accomodation" language="en" table="x_69202_copy_appli_sample_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>date_of_accomodation</element>
+            <help/>
+            <hint/>
+            <label>Date of Accomodation</label>
+            <language>en</language>
+            <name>x_69202_copy_appli_sample_table</name>
+            <plural>Date of Accomodations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-23 04:24:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c4df4c62db2a0300351059d0cf961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Date of Accomodation</sys_name>
+            <sys_package display_value="Copy Application" source="x_69202_copy_appli">f964b192dbe20300351059d0cf961903</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Copy Application">f964b192dbe20300351059d0cf961903</sys_scope>
+            <sys_update_name>sys_documentation_x_69202_copy_appli_sample_table_date_of_accomodation_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-23 04:24:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
